@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.recruitment{
+    width: 60%;
+    margin: 0 auto;
+    height: 500px;
+    background-color: rgb(232, 217, 217);
+
+}
+.recruitment h1{
+    text-align: center;
+    text-transform: capitalize;
+    padding-top: 30px;
+    font-size: 2rem;
+}
+
+.recruitment_content{
+    width: 80%;
+    margin: 10px auto;
+    padding:20px ;
+    background-color: white;
+    box-shadow:5px 5px 10px grey ;
+}
+.recruitment_content input{
+    margin-bottom: 15px;
+    width: 100%;
+    height: 30px;
+}
+.recruitment_content button{
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-style: none;
+}

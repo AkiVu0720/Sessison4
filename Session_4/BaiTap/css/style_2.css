@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+.intro {
+  background-image: url(https://c.wallhere.com/photos/42/6a/rot_grafik_sonnenschirm_goldenerschnitt_urbanebanalit_ten-505275.jpg!d);
+  background-size: cover;
+  background-position: center;
+}
+.intro_item {
+  text-align: center;
+  color: white;
+  line-height: 40px;
+  padding: 40px;
+}
+.intro_item button {
+  margin-top: 30px;
+  padding : 14px 30px;
+  background-color:chocolate;
+  color: white;
+  border: none;
+}

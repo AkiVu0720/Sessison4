@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+.carousel__content {
+  text-align: center;
+  margin-top: 50px;
+  line-height: 40px;
+}
+.carousel__content > span {
+  padding: 10px 40px;
+  background-color: steelblue;
+}
+.carousel__content h2 {
+  text-transform: capitalize;
+}
+.carousel__content p {
+  font-size: 14px;
+}
+.carousel__content h2 span {
+  color: violet;
+}
+.carousel__content button {
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  border: none;
+}
